@@ -14,3 +14,5 @@ Change oh Changu :PPPPP
 
 
 Stage aithe diff direct ga pani cheyyadu --stage ani kuda type cheyyali , not only for change but also for commits we receive from other person.. adi inka video lo cheppala lets wait and see :P
+
+Head gurinchi chuddam
