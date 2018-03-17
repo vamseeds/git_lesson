@@ -1,5 +1,5 @@
 def my_square(x):
-    """This method takes x and squares it
+    """This method takes x(4) and squares it
     """
     return(x**2)
 
