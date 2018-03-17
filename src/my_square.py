@@ -1,6 +1,6 @@
-def my_square(x):
-    """This method takes x(4) and squares it
+def my_square(z):
+    """This method takes z(4) and squares it
     """
-    return(x**2)
+    return(z**2)
 
-print(my_square(4))
+print(my_square(43))
