@@ -4,5 +4,8 @@ def my_square(y):
     return(y**2)
 
 def my_square2(x):
+    """ Squaring x using * operator
+    """
     return(x*x)
 print(my_square(43))
+print(my_square2(44))
